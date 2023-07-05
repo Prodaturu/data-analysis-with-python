@@ -1,0 +1,105 @@
+{
+    "explorer.confirmDragAndDrop": false,
+    "oracledevtools.bookmarkFileFolder": "C:\\Users\\sprod\\Oracle\\oracle.oracledevtools",
+    "oracledevtools.download.otherFolder": "C:\\Users\\sprod\\downloads",
+    "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\sprod\\Oracle\\network\\admin",
+    "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\sprod\\Oracle\\network\\admin",
+    "editor.inlineSuggest.enabled": true,
+    "tabnine.experimentalAutoImports": true,
+    "files.autoSave": "afterDelay",
+    "better-comments.highlightPlainText": true,
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": ":",
+            "color": "#8B4513",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "+",
+            "color": "#CD5C5C",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "-",
+            "color": "#77bced",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": ",",
+            "color": "#727",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": ".",
+            "color": "#e3a284",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        }
+    ],
+    "cSpell.userWords": [
+        "aeiou",
+        "arange",
+        "dtypes",
+        "etree",
+        "fillna",
+        "Findall",
+        "lastname",
+        "matplotlib",
+        "mysock",
+        "pyplot",
+        "quandl"
+    ],
+    "editor.fontSize": 15,
+    "workbench.colorTheme": "Ayu Dark",
+    "workbench.iconTheme": "vs-minimal",
+    "editor.minimap.enabled": false,
+    "vscode-pets.theme": "beach",
+    "vscode-pets.throwBallWithMouse": true,
+    "python.defaultInterpreterPath": "C:\\Users\\sprod\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false
+    },
+    "cSpell.words": [
+        "imdb",
+        "plotly",
+        "testid",
+        "trendline"
+    ]
+}
