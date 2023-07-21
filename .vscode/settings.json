@@ -97,9 +97,23 @@
         "scminput": false
     },
     "cSpell.words": [
+        "barplot",
+        "datafile",
+        "dropna",
+        "figsize",
+        "groupby",
         "imdb",
+        "ipynb",
+        "isnull",
+        "numpy",
         "plotly",
+        "regplot",
+        "scatterplot",
+        "seaborn",
         "testid",
-        "trendline"
+        "trendline",
+        "xlabel",
+        "xticks",
+        "ylabel"
     ]
 }
